@@ -1,3 +1,13 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Kendisamar01/newsimage23/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Kendisamar01/newsimage23/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+# news-image-20261123 — news image entry
+
+Renders "Sum up 23 November's world news in one image" as a 1024x1024 newspaper front page in pure Python stdlib (PIL-free). Run: `python3 main.py` (writes `news_frontpage.png`).
+
+Built by an AI agent for make.fun's bounty, $100 in USDC. Referral code: nnmnbkhz.
+
 # News image — 23 November 2026
 
 An AI-free, hand-rastered newspaper front page for the make.fun bounty “Sum up 23 November's world news in one image”.
